@@ -1,0 +1,3 @@
+This project aims to predict the salary of students in campus recruitment using a dataset named train.csv. 
+The dataset contains the following columns: sl_no, gender, ssc_p, ssc_b, hsc_p, hsc_b, degree_p, degree_t, workex, etest_p, specialisation, mba_p, status, and salary.
+we analyze the provided dataset and build a predictive model for campus recruitment. We first perform data processing and exploratory data analysis (EDA) using a Jupyter Notebook (notebook.ipynb). Next, we implement a Flask web application (app.py) to deploy the trained predictive model and allow users to make predictions based on the provided input
